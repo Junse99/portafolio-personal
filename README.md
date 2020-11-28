@@ -1,3 +1,3 @@
 # portafolio-personal
 
-visit web site: https://junse99.github.io/portafolio-personal/
+link: https://junse99.github.io/portafolio-personal/
